@@ -1,0 +1,3 @@
+[submodule "walletApp"]
+	path = walletApp
+	url = https://github.com/Priyanka136-ux/walletApp.git

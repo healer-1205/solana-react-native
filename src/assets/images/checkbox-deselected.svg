@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>checkbox-deselected</title>
+    <defs>
+        <path d="M20.9996167,19 C20.9996167,20.7 19.6996167,22 17.9996167,22 L17.9996167,22 L3.99961674,22 C2.29961674,22 0.999616736,20.7 0.999616736,19 L0.999616736,19 L0.999616736,5 C0.999616736,3.3 2.29961674,2 3.99961674,2 L3.99961674,2 L17.9996167,2 C19.6996167,2 20.9996167,3.3 20.9996167,5 Z M3.99961674,4 C3.39961674,4 2.99961674,4.4 2.99961674,5 L2.99961674,5 L2.99961674,19 C2.99961674,19.3 3.09961674,19.55 3.27461674,19.725 L3.35413569,19.7953353 C3.52206572,19.9265306 3.74247388,20 3.99961674,20 L17.9996167,20 C18.5996167,20 18.9996167,19.6 18.9996167,19 L18.9996167,5 C18.9996167,4.4 18.5996167,4 17.9996167,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="09---Sign-Up_T1D" transform="translate(-30.000000, -192.000000)">
+            <g id="Group-2" transform="translate(29.000000, 190.000000)">
+                <g id="Icon-/-check-square">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#B2CCFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="u-/-Color-/-Blue-Light" mask="url(#mask-2)" fill="#B2CCFF" fill-rule="evenodd">
+                        <g transform="translate(-0.000383, 0.000000)" id="Rectangle">
+                            <rect x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
